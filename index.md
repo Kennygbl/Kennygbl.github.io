@@ -3,7 +3,7 @@
 ---
 
 [Heart Disease Prediction](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Heart.jfif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
